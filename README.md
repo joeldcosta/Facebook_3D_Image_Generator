@@ -9,7 +9,8 @@
 <h3>
   
 ```diff
-+ Create facebook image + image_depth using this application and get a 3D effect of any image.
++ Create facebook image + image_depth using this application 
++ and get a 3D effect of any image.
 ```
   
 </h3>
