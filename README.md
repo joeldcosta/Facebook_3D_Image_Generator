@@ -71,7 +71,11 @@
 
 Joel D'costa
 - [GitHub](http://github.com/joeldcosta)
+
+# Follow me on
 - [Twitter](http://twitter.com/JoelDcosta10)
+
+<a href="http://twitter.com/JoelDcosta10" target="_blank"><img src="https://www.citypng.com/public/uploads/preview/-51614268769vk1vws0ryd.png" alt="Follow me on Twitter" style="height: 117px !important;width: 117px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 # Buy Me A Coffee
 <a href="https://www.buymeacoffee.com/python4fun" target="_blank"><img src="https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
