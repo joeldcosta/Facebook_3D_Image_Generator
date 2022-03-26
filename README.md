@@ -64,7 +64,6 @@
 # Give me a shout if you're using this in your project!
 
 ## About
-Joel D'costa
 
 # MY GitHub Repo
 <a href="https://github.com/joeldcosta/" target="_blank"><img src="https://github.com/joeldcosta/personal/blob/main/joeldcsvg.svg?raw=true" alt="Check out my Git Repo" style="height: 20px !important;width: 117px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
