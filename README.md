@@ -73,9 +73,7 @@ Joel D'costa
 - [GitHub](http://github.com/joeldcosta)
 
 # Follow me on
-- [Twitter](http://twitter.com/JoelDcosta10)
-
-<a href="http://twitter.com/JoelDcosta10" target="_blank"><img src="https://www.pinclipart.com/picdir/big/20-203122_follow-us-twitter-logo-square-png-clipart.png" alt="Follow me on Twitter" style="height: 117px !important;width: 117px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="http://twitter.com/JoelDcosta10" target="_blank"><img src="https://purepng.com/public/uploads/large/purepng.com-twitter-icon-ios-7symbolsiconsapple-iosiosios-7-iconsios-7-721522596687v78wl.png" alt="Follow me on Twitter" style="height: 117px !important;width: 117px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 # Buy Me A Coffee
 <a href="https://www.buymeacoffee.com/python4fun" target="_blank"><img src="https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
