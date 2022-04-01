@@ -68,6 +68,9 @@
 ## MY GitHub Repo
 <a href="https://github.com/joeldcosta/" target="_blank"><img src="https://github.com/joeldcosta/personal/blob/main/joeldcsvg.svg?raw=true" alt="Check out my Git Repo" style="height: 20px !important;width: 117px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
+## My Blog
+<a href="https://pysnakeblog.blogspot.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/1200px-Blogger.svg.png" alt="Take a Read" style="height: 60px !important;width: 60px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 ## Follow me on
 <a href="http://twitter.com/JoelDcosta10" target="_blank"><img src="https://purepng.com/public/uploads/large/purepng.com-twitter-icon-ios-7symbolsiconsapple-iosiosios-7-iconsios-7-721522596687v78wl.png" alt="Follow me on Twitter" style="height: 60px !important;width: 60px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
